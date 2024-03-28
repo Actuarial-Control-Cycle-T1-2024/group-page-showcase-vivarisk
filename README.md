@@ -45,7 +45,4 @@ Mitigation Strategies: Strategies to mitigate each identified risk type.
 ### Conclusion
 SuperLife's purpose-driven approach, bolstered by robust risk management, promises resilience and societal impact. By incentivizing healthy behaviors and integrating data-driven analysis, it navigates challenges adeptly. SuperLife's commitment to accuracy and societal well-being ensures sustainable growth and value for stakeholders in dynamic market environments.
 
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
