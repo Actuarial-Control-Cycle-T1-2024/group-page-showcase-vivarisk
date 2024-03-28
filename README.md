@@ -9,6 +9,11 @@
 ## Introduction 
 Welcome to the SuperLife Policyholder Behavior Analysis repository. In this project, the VivaRisk team conducted an in-depth analysis aimed at improving SuperLife's life insurance products by encouraging healthy behaviors among policyholders, enhancing mortality rates, driving revenue growth, boosting market presence, and strengthening the company's financial outlook. This overview provides a summary of our analysis approach, key findings, and proposed implementation steps.
 
+## Case Story
+<p width="50%">
+    <img width="50%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ead886fe-1213-4fc0-ba58-8c30e7c0ee82"> 
+</p>
+
 ## SuperLife-VivaRisk Program Overview 
 ### Objectives
 VivaRisk is implementing a purpose-driven approach in SuperLife's life insurance products through the following objectives:
@@ -40,8 +45,6 @@ Mitigation Strategies: Strategies to mitigate each identified risk type.
 ### Conclusion
 SuperLife's purpose-driven approach, bolstered by robust risk management, promises resilience and societal impact. By incentivizing healthy behaviors and integrating data-driven analysis, it navigates challenges adeptly. SuperLife's commitment to accuracy and societal well-being ensures sustainable growth and value for stakeholders in dynamic market environments.
 
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
 >Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
