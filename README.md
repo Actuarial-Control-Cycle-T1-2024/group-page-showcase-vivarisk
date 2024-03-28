@@ -1,7 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # SUPERLIFE WELLNESS: HARBOR YOUR HEALTH WITH SUPERLIFE
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 <p align="center" width="10%">
     <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ceb22b03-e336-4feb-ab72-a7c6886a23e7"> 
