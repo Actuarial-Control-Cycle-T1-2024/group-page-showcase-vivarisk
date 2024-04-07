@@ -3,7 +3,7 @@
 
 <p align = "center">
     <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
-    <img width="20%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.png">
+    <img width="15%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.png">
 </p>
 ## Prepared by:
 Adela Laurens, Syasya Azhar, Kate Lee, Mathusha Vipulananthan and Eve Christine Yap
