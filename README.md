@@ -1,8 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # SUPERLIFE WELLNESS: HARBOR YOUR HEALTH WITH SUPERLIFE
 
-
-<p align="center" width="10%">
+<p align="left" width="10%">
+    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
+</p>
+<p align="right" width="10%">
     <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ceb22b03-e336-4feb-ab72-a7c6886a23e7"> 
 </p>
 
@@ -13,9 +15,6 @@ Adela Laurens, Syasya Azhar, Kate Lee, Mathusha Vipulananthan and Eve Christine 
 Welcome to the SuperLife Policyholder Behavior Analysis repository. In this project, the VivaRisk team conducted an in-depth analysis aimed at improving SuperLife's life insurance products by encouraging healthy behaviors among policyholders, enhancing mortality rates, driving revenue growth, boosting market presence, and strengthening the company's financial outlook. This overview provides a summary of our analysis approach, key findings, and proposed implementation steps.
 
 ## Case Story
-<p width="60%">
-    <img width="60%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
-</p>
 <p width="60%">
     <img width="60%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ead886fe-1213-4fc0-ba58-8c30e7c0ee82"> 
 </p>
