@@ -2,9 +2,9 @@
 # SUPERLIFE WELLNESS: HARBOR YOUR HEALTH WITH SUPERLIFE
 
 <p align="centre">
-    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png" align = "left"> 
+    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
     &nbsp; &nbsp; &nbsp; &nbsp;
-    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ceb22b03-e336-4feb-ab72-a7c6886a23e7" align = "right> 
+    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.png"> 
 </p>
 
 ## Prepared by:
