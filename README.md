@@ -1,11 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # SUPERLIFE WELLNESS: HARBOR YOUR HEALTH WITH SUPERLIFE
 
-<p align="left" width="10%">
-    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
-</p>
-<p align="right" width="10%">
-    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ceb22b03-e336-4feb-ab72-a7c6886a23e7"> 
+<p align="centre" width="10%">
+    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png" align = "left"> 
+    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ceb22b03-e336-4feb-ab72-a7c6886a23e7" align = "right> 
 </p>
 
 ## Prepared by:
