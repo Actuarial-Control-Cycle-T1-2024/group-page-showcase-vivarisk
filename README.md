@@ -1,15 +1,14 @@
 # SUPERLIFE WELLNESS: HARBOR YOUR HEALTH WITH SUPERLIFE
+
 <p align = "center" width = "10%">
-    <img width = "50%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
+    <img width = "40%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/cc3f288a-61a9-4dec-a43b-440527df434c"> 
 </p>
-## Prepared by:
-Adela Laurens, Syasya Azhar, Kate Lee, Mathusha Vipulananthan and Eve Christine Yap
 
 ## Introduction 
 Welcome to the SuperLife Policyholder Behavior Analysis repository. In this project, the VivaRisk team conducted an in-depth analysis aimed at improving SuperLife's life insurance products by encouraging healthy behaviors among policyholders, enhancing mortality rates, driving revenue growth, boosting market presence, and strengthening the company's financial outlook. This overview provides a summary of our analysis approach, key findings, and proposed implementation steps.
 
 ## Case Story
-<p align = "center" width="50%">
+<p align = "center" width="40%">
     <img width="50%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/PROCESS.png"> 
 </p>
 
@@ -43,9 +42,13 @@ Mitigation Strategies: Strategies to mitigate each identified risk type.
 
 ### Conclusion
 SuperLife's purpose-driven approach, bolstered by robust risk management, promises resilience and societal impact. By incentivizing healthy behaviors and integrating data-driven analysis, it navigates challenges adeptly. SuperLife's commitment to accuracy and societal well-being ensures sustainable growth and value for stakeholders in dynamic market environments.
-<p align = "center" width = "30%">
-    <img width = "30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.png"> 
+
+<p align = "center" width = "20%">
+    <img width = "20%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.png"> 
 </p>
+
+#### Prepared by:
+Adela Laurens, Syasya Azhar, Kate Lee, Mathusha Vipulananthan and Eve Christine Yap
 
 ![](Actuarial.gif)
 
