@@ -14,6 +14,9 @@ Welcome to the SuperLife Policyholder Behavior Analysis repository. In this proj
 
 ## Case Story
 <p width="60%">
+    <img width="60%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
+</p>
+<p width="60%">
     <img width="60%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ead886fe-1213-4fc0-ba58-8c30e7c0ee82"> 
 </p>
 
