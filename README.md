@@ -9,7 +9,7 @@ Welcome to the SuperLife Policyholder Behavior Analysis repository. In this proj
 
 ## Case Story
 <p align = "center" width="40%">
-    <img width="50%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/PROCESS.PNG"> 
+    <img width="50%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/PROCESS.png"> 
 </p>
 
 ## SuperLife - VivaRisk Program Overview 
@@ -44,7 +44,7 @@ Mitigation Strategies: Strategies to mitigate each identified risk type.
 SuperLife's purpose-driven approach, bolstered by robust risk management, promises resilience and societal impact. By incentivizing healthy behaviors and integrating data-driven analysis, it navigates challenges adeptly. SuperLife's commitment to accuracy and societal well-being ensures sustainable growth and value for stakeholders in dynamic market environments.
 
 <p align = "center" width = "20%">
-    <img width = "20%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.PNG"> 
+    <img width = "20%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.png"> 
 </p>
 
 #### Prepared by:
