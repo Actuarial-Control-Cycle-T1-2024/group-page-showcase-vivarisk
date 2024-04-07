@@ -2,7 +2,6 @@
 # SUPERLIFE WELLNESS: HARBOR YOUR HEALTH WITH SUPERLIFE
 <p align = "center" width = "10%">
     <img width = "30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
-</p>
 ## Prepared by:
 Adela Laurens, Syasya Azhar, Kate Lee, Mathusha Vipulananthan and Eve Christine Yap
 
@@ -44,6 +43,8 @@ Mitigation Strategies: Strategies to mitigate each identified risk type.
 
 ### Conclusion
 SuperLife's purpose-driven approach, bolstered by robust risk management, promises resilience and societal impact. By incentivizing healthy behaviors and integrating data-driven analysis, it navigates challenges adeptly. SuperLife's commitment to accuracy and societal well-being ensures sustainable growth and value for stakeholders in dynamic market environments.
+<p align = "center" width = "30%">
+    <img width = "30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.png"> 
 
 ![](Actuarial.gif)
 
