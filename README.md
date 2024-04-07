@@ -6,6 +6,9 @@
     <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ceb22b03-e336-4feb-ab72-a7c6886a23e7"> 
 </p>
 
+## Prepared by:
+Adela Laurens, Syasya Azhar, Kate Lee, Mathusha Vipulananthan and Eve Christine Yap
+
 ## Introduction 
 Welcome to the SuperLife Policyholder Behavior Analysis repository. In this project, the VivaRisk team conducted an in-depth analysis aimed at improving SuperLife's life insurance products by encouraging healthy behaviors among policyholders, enhancing mortality rates, driving revenue growth, boosting market presence, and strengthening the company's financial outlook. This overview provides a summary of our analysis approach, key findings, and proposed implementation steps.
 
@@ -14,7 +17,7 @@ Welcome to the SuperLife Policyholder Behavior Analysis repository. In this proj
     <img width="60%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/ead886fe-1213-4fc0-ba58-8c30e7c0ee82"> 
 </p>
 
-## SuperLife-VivaRisk Program Overview 
+## SuperLife - VivaRisk Program Overview 
 ### Objectives
 VivaRisk is implementing a purpose-driven approach in SuperLife's life insurance products through the following objectives:
 
@@ -36,7 +39,7 @@ Economic Value: Analysis of the expected present value of benefits and compariso
 
 ### Assumptions
 Program Assumptions: Assumptions related to participation rates and interventions.<br />
-Economic and Demographic Assumptions: Assumptions regarding inflation, interest rates, and profit margins.
+Economic and Demographic Assumptions: Assumptions related to inflation, interest rates, and profit margins.
 
 ### Risk Management
 Risk Identification and Ranking: Identification and assessment of economic, longevity, cyber security, financial, client behavioral, regulatory, and third-party risks.<br />
