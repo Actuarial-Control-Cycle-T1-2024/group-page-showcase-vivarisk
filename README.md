@@ -47,5 +47,6 @@ SuperLife's purpose-driven approach, bolstered by robust risk management, promis
 <p align = "center" width = "30%">
     <img width = "30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/unsw.png"> 
 </p>
+
 ![](Actuarial.gif)
 
