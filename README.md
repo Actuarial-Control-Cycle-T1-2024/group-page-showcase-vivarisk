@@ -1,8 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # SUPERLIFE WELLNESS: HARBOR YOUR HEALTH WITH SUPERLIFE
-
 <p align = "center">
-    <img width="30%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
+    <img width="100%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/3.png"> 
 </p>
 ## Prepared by:
 Adela Laurens, Syasya Azhar, Kate Lee, Mathusha Vipulananthan and Eve Christine Yap
