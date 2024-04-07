@@ -10,7 +10,7 @@ Adela Laurens, Syasya Azhar, Kate Lee, Mathusha Vipulananthan and Eve Christine 
 Welcome to the SuperLife Policyholder Behavior Analysis repository. In this project, the VivaRisk team conducted an in-depth analysis aimed at improving SuperLife's life insurance products by encouraging healthy behaviors among policyholders, enhancing mortality rates, driving revenue growth, boosting market presence, and strengthening the company's financial outlook. This overview provides a summary of our analysis approach, key findings, and proposed implementation steps.
 
 ## Case Story
-<p width="50%">
+<p align = "center" width="50%">
     <img width="50%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/blob/main/Wardiere.png"> 
 </p>
 
