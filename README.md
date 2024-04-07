@@ -1,7 +1,7 @@
 # SUPERLIFE WELLNESS: HARBOR YOUR HEALTH WITH SUPERLIFE
 
 <p align = "center" width = "10%">
-    <img width = "40%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/cc3f288a-61a9-4dec-a43b-440527df434c"> 
+    <img width = "50%" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-vivarisk/assets/163557890/cc3f288a-61a9-4dec-a43b-440527df434c"> 
 </p>
 
 ## Introduction 
